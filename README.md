@@ -1,2 +1,2 @@
 # PHP
-RabbitMQ-Class、
+RabbitMQ-Class事例
